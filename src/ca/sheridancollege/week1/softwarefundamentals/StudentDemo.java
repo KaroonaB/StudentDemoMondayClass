@@ -16,8 +16,10 @@ public class StudentDemo
    private String name;
    private String program;
    private String course;
+   private String fetch_merge; 
 // course added
    // adding comment while in KAROONA_BHAGAT branch
+   // let's learn about fetch and merge
 
    public String getProgram ()
    {
